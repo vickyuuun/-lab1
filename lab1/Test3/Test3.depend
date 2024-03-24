@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711025530 source:c:\users\admin1\desktop\并行作业\test3\main.cpp
+	<iostream>
+	<windows.h>
+
